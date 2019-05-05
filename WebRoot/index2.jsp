@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <a href="index.jsp">叶祖囧!</a><br>
+    <a href="index.jsp"> 菜花脑子有病</a><br>
   </body>
 </html>
